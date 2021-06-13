@@ -1,3 +1,7 @@
+![Lisensi](https://img.shields.io/github/license/xnuvers007/FTPScan?color=blue "Lisensi")
+![Size](https://img.shields.io/github/languages/code-size/Xnuvers007/FTPScan?style=plastic "Size Code")
+![Lang](https://img.shields.io/github/languages/top/Xnuvers007/FTPScan?logo=Python&logoColor=green&style=plastic "lang")
+
 # FTPScan
 This program used to detect FTP vuln, using the English language
 
